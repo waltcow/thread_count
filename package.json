@@ -1,10 +1,10 @@
 {
-  "name": "thread-count",
+  "name": "thread_count",
   "version": "0.1.0",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/waltcow/thread-count.git"
+    "url": "git+https://github.com/waltcow/thread_count.git"
   },
   "license": "MIT",
   "author": "zfmai <waltcow@gmail.com>",
@@ -25,7 +25,7 @@
   },
   "binary": {
     "module_name": "index",
-    "host": "https://github.com/waltcow/thread-count/releases/download/",
+    "host": "https://github.com/waltcow/thread_count/releases/download/",
     "remote_path": "{version}",
     "package_name": "{node_abi}-{platform}-{arch}.tar.gz",
     "module_path": "./native",
