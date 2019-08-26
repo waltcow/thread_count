@@ -31,5 +31,4 @@ before_install:
   - yarn
 
 script:
-  # Publish when using '[publish binary]' keywords
-  - yarn upload-binary || exit 0; fi;arn upload-binary || exit 0; fi;
+  - yarn upload-binary || exit 0;
