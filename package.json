@@ -25,7 +25,7 @@
   },
   "binary": {
     "module_name": "index",
-    "host": "https://github.com/waltcow./thread_count/releases/download/",
+    "host": "https://github.com/waltcow/thread_count/releases/download/",
     "remote_path": "{version}",
     "package_name": "{node_abi}-{platform}-{arch}.tar.gz",
     "module_path": "./native",

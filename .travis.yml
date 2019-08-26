@@ -1,13 +1,11 @@
 os:
   - osx
-  - linux
   - windows
 
 language: node_js
 
 node_js:
   - node
-  - 10
 
 cache:
   - yarn
